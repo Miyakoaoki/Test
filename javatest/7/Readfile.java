@@ -1,0 +1,8 @@
+ Readfile{
+	open the file;
+	determine its size;
+	allocate that much memory;
+	read the file into memory;
+	close the file;
+	
+	}

@@ -1,0 +1,3 @@
+interface Contents{
+	int value();
+}

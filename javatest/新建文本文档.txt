@@ -1,0 +1,7 @@
+<HTML>
+	<BODY>
+	<H1> Java小应用程序</H1>
+	<APPLET CODE=HelloWorldApplet.class  WIDTH=300  HEIGHT=300>
+	</APPLET>
+	</BODY>
+</HTML>
